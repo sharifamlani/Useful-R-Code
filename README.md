@@ -1,2 +1,5 @@
-# GitRepository
- Useful R Code
+# Useful R Code
+
+R code I have collected over the years.
+
+ 
