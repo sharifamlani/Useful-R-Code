@@ -2,7 +2,7 @@
 
 setwd("C:/Users/Shari/OneDrive/University of California, Davis/Fourth Year/Dissertation Prospectus/Out of State Donors/Tables/In-District Donor Ideology Validity")
 
-table7 <-stargazer(list(m8, m7), type = "html",
+table7 <-stargazer(list(m8, m7), type = "text",
                    title    = "Table 5: Determinants of Turnout Inequality (R)",
                    covariate.labels = c(
                      "Voting Polarization",
